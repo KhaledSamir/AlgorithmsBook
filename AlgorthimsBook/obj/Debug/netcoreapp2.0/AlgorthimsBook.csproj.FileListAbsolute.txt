@@ -1,0 +1,11 @@
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/bin/Debug/netcoreapp2.0/AlgorthimsBook.deps.json
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/bin/Debug/netcoreapp2.0/AlgorthimsBook.runtimeconfig.json
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/bin/Debug/netcoreapp2.0/AlgorthimsBook.runtimeconfig.dev.json
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/bin/Debug/netcoreapp2.0/AlgorthimsBook.dll
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/bin/Debug/netcoreapp2.0/AlgorthimsBook.pdb
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.csprojAssemblyReference.cache
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.csproj.CoreCompileInputs.cache
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.AssemblyInfoInputs.cache
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.AssemblyInfo.cs
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.dll
+/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/obj/Debug/netcoreapp2.0/AlgorthimsBook.pdb

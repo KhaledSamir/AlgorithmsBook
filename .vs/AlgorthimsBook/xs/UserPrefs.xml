@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3253E489-0653-40FC-8C79-E44604CC854D}|Default">
+  <MonoDevelop.Ide.ItemProperties.AlgorthimsBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlgorthimsBook/Program.cs">
+    <Files>
+      <File FileName="AlgorthimsBook/Program.cs" Line="14" Column="13" />
+      <File FileName="AlgorthimsBook/Chapter2/MergeSort.cs" Line="10" Column="10" />
+      <File FileName="AlgorthimsBook/Chapter1/Chapter1.cs" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/khaled/Projects/AlgorthimsBook/AlgorthimsBook/Chapter2/MergeSort.cs" relfile="AlgorthimsBook/Chapter2/MergeSort.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
