@@ -22,6 +22,25 @@ namespace AlgorthimsBook.Chapter2
             }
         }
 
+        public int[] MergeSortIteratively(int[] ar)
+        {
+            Queue<int[]> q = new Queue<int[]>();
+
+            for (int i = 0; i < ar.Length; i++)
+            {
+                q.Enqueue(splitArray(ar, i, 1));
+            }
+
+            while (q.Count > 1)
+            {
+                int[] ar1 = q.Dequeue();
+                int[] ar2 = q.Dequeue();
+                q.Enqueue(Merge(ar1, ar2));
+            }
+
+            return q.Dequeue();
+        }
+
         private int [] Merge(int [] x , int [] y)
         {
             if (x.Length == 0) return y;
@@ -56,23 +75,6 @@ namespace AlgorthimsBook.Chapter2
         }
 
 
-        public int [] MergeSortIteratively(int [] ar)
-        {
-            Queue<int[]> q = new Queue<int[]>();
-
-            for (int i = 0; i < ar.Length; i++)
-            {
-                q.Enqueue(splitArray(ar,i,1));
-            }
-
-            while(q.Count > 1)
-            {
-                int [] ar1 = q.Dequeue();
-                int[] ar2 = q.Dequeue();
-                q.Enqueue(Merge(ar1, ar2));
-            }
-
-            return q.Dequeue();
-        }
+       
     }
 }
